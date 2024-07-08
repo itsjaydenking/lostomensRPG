@@ -3,9 +3,9 @@
 ## License for Lost Omens RPG
 
 #### Definitions:
-**Creator**: Jayden King and Ebonmane Ink Creative Studios
-**Game**: _Lost Omens_, including all associated materials, rules, settings, and intellectual property.
-**User**: Any individual or entity utilizing or accessing the Game in any form.
+**Creator**: Jayden King and Ebonmane Ink Creative Studios <br>
+**Game**: _Lost Omens_, including all associated materials, rules, settings, and intellectual property.<br>
+**User**: Any individual or entity utilizing or accessing the Game in any form.<br>
 
 ### License Terms:
 
